@@ -1,0 +1,7 @@
+{
+	"name": "AW Wordpress testing",
+	"description": "Wordpress testing.",
+	"repository": "https://github.com/andynavy23/wordpress_testing",
+	"logo": "",
+	"keywords": ["wordpress", "heroku", "php", "mysql", "apache", "apache2", "nginx"]
+}
